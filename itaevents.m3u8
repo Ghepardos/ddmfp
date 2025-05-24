@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-id="Ukraine Premier League - Inhulets Petrove vs Vorskla Poltava" tvg-name="14:30 Ukraine Premier League : Inhulets Petrove vs Vorskla Poltava - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UPLTV
 https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9000.php&redirect_stream=true&api_password=Patatini1!
 
-#EXTINF:-1 tvg-id="- Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Mix DE
+#EXTINF:-1 tvg-id="Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Mix DE
 https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-557.php&redirect_stream=true&api_password=Patatini1!
 
-#EXTINF:-1 tvg-id="- Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Top Event DE
+#EXTINF:-1 tvg-id="Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC" tvg-name="18:00 Germany Amateur A-Junioren-Bundesliga Playoffs - Werder Bremen vs. Karlsruher SC - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Top Event DE
 https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-556.php&redirect_stream=true&api_password=Patatini1!
 
 #EXTINF:-1 tvg-id="Austria - Football Bundesliga - Simulcast" tvg-name="19:30 Austria - Football Bundesliga : Simulcast - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 1
@@ -719,6 +719,12 @@ https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.d
 #EXTINF:-1 tvg-id="AVP Beach Volleyball League Week 1 - Palm Beach Live - AVP Beach Volleyball League Week 1 - Palm Beach Live" tvg-name="02:00 AVP Beach Volleyball League Week 1 - Palm Beach Live - 23/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", CBS Sports Network USA
 https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-308.php&redirect_stream=true&api_password=Patatini1!
 
+#EXTINF:-1 tvg-id="Ukraine Premier League - Chornomorets vs Oleksandria" tvg-name="12:00 Ukraine Premier League : Chornomorets vs Oleksandria - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UPLTV
+https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9000.php&redirect_stream=true&api_password=Patatini1!
+
+#EXTINF:-1 tvg-id="Ukraine Premier League - Rukh Vynnyky vs Shakhtar Donetsk" tvg-name="14:30 Ukraine Premier League : Rukh Vynnyky vs Shakhtar Donetsk - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UPLTV
+https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9000.php&redirect_stream=true&api_password=Patatini1!
+
 #EXTINF:-1 tvg-id="Russia - Premier League - Simulcast" tvg-name="15:30 Russia - Premier League : Simulcast - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH TV Russia
 https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-127.php&redirect_stream=true&api_password=Patatini1!
 
@@ -814,6 +820,9 @@ https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.d
 
 #EXTINF:-1 tvg-id="Spain - La Liga - Real Madrid vs Real Sociedad" tvg-name="16:15 Spain - La Liga : Real Madrid vs Real Sociedad - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Laliga
 https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-415.php&redirect_stream=true&api_password=Patatini1!
+
+#EXTINF:-1 tvg-id="Ukraine Premier League - Dynamo Kyiv vs Kolos Kovalivka" tvg-name="17:00 Ukraine Premier League : Dynamo Kyiv vs Kolos Kovalivka - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", UPLTV
+https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9000.php&redirect_stream=true&api_password=Patatini1!
 
 #EXTINF:-1 tvg-id="Austria - Football Bundesliga - Simulcast" tvg-name="17:00 Austria - Football Bundesliga : Simulcast - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport Austria 1
 https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-559.php&redirect_stream=true&api_password=Patatini1!
@@ -1141,6 +1150,27 @@ https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.d
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Pacific vs Forge" tvg-name="23:00 Canadian Premier League : Pacific vs Forge - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Soccer Plus
 https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true&api_password=Patatini1!
+
+#EXTINF:-1 tvg-id="Rublev A. vs Cobolli F. - Rublev A. vs Cobolli F." tvg-name="14:30 Rublev A. vs Cobolli F. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - HAMBURG", Tennis Stream
+https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Patatini1!
+
+#EXTINF:-1 tvg-id="Hurkacz H. vs Djokovic N. - Hurkacz H. vs Djokovic N." tvg-name="15:00 Hurkacz H. vs Djokovic N. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - GENEVA", Tennis Stream
+https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Patatini1!
+
+#EXTINF:-1 tvg-id="Hurkacz H. vs Djokovic N. - Hurkacz H. vs Djokovic N." tvg-name="15:00 Hurkacz H. vs Djokovic N. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - GENEVA", Tennis Stream
+https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Patatini1!
+
+#EXTINF:-1 tvg-id="Hurkacz H. vs Djokovic N. - Hurkacz H. vs Djokovic N." tvg-name="15:00 Hurkacz H. vs Djokovic N. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="ATP - GENEVA", Tennis Stream
+https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Patatini1!
+
+#EXTINF:-1 tvg-id="Samsonova L. vs Rybakina E. - Samsonova L. vs Rybakina E." tvg-name="14:00 Samsonova L. vs Rybakina E. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - STRASBOURG", Tennis Stream
+https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Patatini1!
+
+#EXTINF:-1 tvg-id="Samsonova L. vs Rybakina E. - Samsonova L. vs Rybakina E." tvg-name="14:00 Samsonova L. vs Rybakina E. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - STRASBOURG", Tennis Stream
+https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Patatini1!
+
+#EXTINF:-1 tvg-id="Joint M. vs Cristian J. - Joint M. vs Cristian J." tvg-name="14:00 Joint M. vs Cristian J. - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="WTA - RABAT", Tennis Stream
+https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=Patatini1!
 
 #EXTINF:-1 tvg-id="Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6" tvg-name="11:00 Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Day-6 - 24/05/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://ghepardos-skium.hf.space/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-40.php&redirect_stream=true&api_password=Patatini1!
